@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Q1: Why might be consider using git?
 
 Answer: You can clone and make branches of existing code and work on 
 it/modify it separately, allowing many people to work on the same repository
+=======
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to the medical field. Medical records/data can be stored and be used to make models, predictions, and analysis.
+>>>>>>> q2
