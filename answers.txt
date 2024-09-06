@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: You can clone and make branches of existing code and work on 
+it/modify it separately, allowing many people to work on the same repository
