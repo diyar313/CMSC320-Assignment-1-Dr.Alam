@@ -12,6 +12,6 @@ Answer: merging merges (takes the changes) from one branch and puts it in anothe
 conflicts manually if there are any. Rebasing takes any changes made to the code (that don't affect your own branch work)
 and adds them to your current branch.
 
-Q3: What skills do you hope to improve during this course?
+Q4: What skills do you hope to improve during this course?
 
 Answer: SQL and Python skills, as well as general data analysis
